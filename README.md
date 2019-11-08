@@ -12,6 +12,8 @@ You can follow releases [here](https://github.com/Microsoft/azure-pipelines-imag
 Subscribe to [this RSS feed](https://microsoft.github.io/azure-pipelines-image-generation/) to be notified of upcoming image changes and other important messages. General Azure Pipelines service health is found [here](https://status.dev.azure.com/).
 
 # Image contents
+Images that have badges can be clicked on to see the latest contents for that version of the image.
+Images that are partially deployed have a yellow badge with a percentage indicating how far this image has been deployed across Azure Pipelines.
 
 - [macOS 10.13](images/macos/macos-10.13-Readme.md)
 - [macOS 10.14](images/macos/macos-10.14-Readme.md)
